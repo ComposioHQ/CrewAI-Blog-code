@@ -1,0 +1,3 @@
+crewai
+sec-api
+python-dotenv

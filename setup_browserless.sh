@@ -1,0 +1,1 @@
+docker run -d --rm --name browserless -p 3000:3000 browserless/chrome
